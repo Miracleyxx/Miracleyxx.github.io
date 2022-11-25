@@ -9,7 +9,7 @@ description: 顾茫然的描述
 keywords: 顾茫然,顾茫然 # edit for Theme.shoka
 author: 顾茫然
 language: zh-CN # 这里只可以选 zh-CN、zh-HK、zh-TW、ja、en 这几个格式
-timezone: 'Asia/NanJing'
+timezone: 'Asia/ShangHai'
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
