@@ -1,0 +1,20 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "顾茫然",
+    "subtitle": "顾茫然的博客",
+    "icon": "http://yoursite.com/images/favicon.ico",
+    "description": "顾茫然的描述",
+    "home_page_url": "http://yoursite.com",
+    "items": [
+        {
+            "id": "http://yoursite.com/%E6%9C%88%E4%BA%AE%E4%B8%8E%E5%85%AD%E4%BE%BF%E5%A3%AB/",
+            "url": "http://yoursite.com/%E6%9C%88%E4%BA%AE%E4%B8%8E%E5%85%AD%E4%BE%BF%E5%A3%AB/",
+            "title": "月亮与六便士",
+            "date_published": "2022-11-25T01:11:49.000Z",
+            "content_html": "<h3 id=\"月亮与六便士\"><a class=\"anchor\" href=\"#月亮与六便士\">#</a> 月亮与六便士</h3>\n<p>我们身边有许多人只能埋头拾起地上的六便士，偶尔望望月亮，而不能追逐月亮，无论选择如何，愿我们都能拾起地上的六便士，同时也能追逐自己心中的月亮，不在乎世俗的眼光，勇敢 ` 努力追逐自己的🌙。</p>\n<h3 id=\"hello-world\"><a class=\"anchor\" href=\"#hello-world\">#</a>  <code>hello world</code></h3>\n<figure class=\"highlight c\"><figcaption data-lang=\"c\"></figcaption><table><tr><td data-num=\"1\"></td><td><pre><span class=\"token macro property\"><span class=\"token directive-hash\">#</span><span class=\"token directive keyword\">include</span> <span class=\"token string\">&lt;iostream></span></span></pre></td></tr><tr><td data-num=\"2\"></td><td><pre>using namespace std<span class=\"token punctuation\">;</span></pre></td></tr><tr><td data-num=\"3\"></td><td><pre> </pre></td></tr><tr><td data-num=\"4\"></td><td><pre><span class=\"token keyword\">int</span> <span class=\"token function\">main</span><span class=\"token punctuation\">(</span><span class=\"token punctuation\">)</span> </pre></td></tr><tr><td data-num=\"5\"></td><td><pre><span class=\"token punctuation\">&#123;</span></pre></td></tr><tr><td data-num=\"6\"></td><td><pre>    cout <span class=\"token operator\">&lt;&lt;</span> <span class=\"token string\">\"Hello, World!\"</span><span class=\"token punctuation\">;</span></pre></td></tr><tr><td data-num=\"7\"></td><td><pre>    <span class=\"token keyword\">return</span> <span class=\"token number\">0</span><span class=\"token punctuation\">;</span></pre></td></tr><tr><td data-num=\"8\"></td><td><pre><span class=\"token punctuation\">&#125;</span></pre></td></tr></table></figure>",
+            "tags": [
+                "随笔"
+            ]
+        }
+    ]
+}
