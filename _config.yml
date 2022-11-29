@@ -147,20 +147,20 @@ minify:
     exclude:
       - '**/*.min.js'
 
-# algolia:
-#   appId:
-#   apiKey:
-#   adminApiKey:
-#   chunkSize: 5000
-#   indexName:
-#   fields:
-#     - title #必须配置
-#     - path #必须配置
-#     - categories #推荐配置
-#     - content:strip:truncate,0,4000
-#     - gallery
-#     - photos
-#     - tags
+algolia:
+   appId: I9WA2U70R6
+   apiKey: df036eb8ecaa62bae07f455a4ce95620
+   adminApiKey: 34c930c3cbdd712dd1e29e7064ecdc1f
+   chunkSize: 5000
+   indexName: hexo
+   fields:
+     - title  #必须配置
+     - path  #必须配置
+     - categories #推荐配置
+     - content:strip:truncate,0,4000
+     - gallery
+     - photos
+     - tags
 
 feed:
     limit: 20
